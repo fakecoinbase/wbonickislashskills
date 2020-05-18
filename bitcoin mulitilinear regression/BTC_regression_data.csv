@@ -1,4 +1,4 @@
-Date,BTC price [USD],Volume BTC,Gold price[USD],Oil WTI price[USD],SP500 close [USD],BTC n-transactions,M2(Not seasonally adjusted)
+Date,BTC price [USD],Volume BTC,Gold price[USD],Oil WTI price[USD],SP500 close index,BTC n-transactions,M2(Not seasonally adjusted)[1e+09 USD]
 2014-12-01,370.0,0.05656,1332.5,68.97999999999998,2053.439941,79098.0,11747.9
 2014-12-02,378.0,15.01,1314.7,66.98999999999997,2066.550049,99419.0,11747.9
 2014-12-03,378.0,0.5466,1325.8,67.29999999999997,2074.330078,99419.0,11747.9
