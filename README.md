@@ -7,4 +7,5 @@ There are three folders:
 3. Bitcoin price prediction - a project which goal is to:
  - evaluate relationship between the price of bitcoin, market assets (gold price, S&P500 index etc.) and features directly connected to bitcoin (google search trends etc.)
  - build a reliable model for predicting the price of bitcoin
+
 So far regression and tree-based models are built. __This project is still in progress.__ 
