@@ -6,6 +6,4 @@ There are three folders:
 2. Przedsiębiorstwa - a little project which goal was to find out which businesses have been suffering the most due to covid19 panic (in Polish market, 60 days (march and april 2020). Description in polish.
 3. Bitcoin price prediction - a project which goal is to:
  - evaluate relationship between the price of bitcoin, market assets (gold price, S&P500 index etc.) and features directly connected to bitcoin (google search trends etc.)
- - build a reliable model for predicting the price of bitcoin
-
-So far regression and tree-based models are built. __This project is still in progress.__ 
+ - build a reliable model for predicting the price of bitcoin <br> So far regression and tree-based models are built. __This project is still in progress.__ 
