@@ -6,5 +6,5 @@ Files description:
 - data_cleaning - folder where data downloaded from the Internet are stored, is contains a jupyternotebook file, in which a dataset is created
 - data_analysis - a file where the dataset is analyzed (charts, correlation matrix etc.)
 - BTC_regression - a notebook with regression models
-- BTC_treebased_models - a file with tree-based methods, it contains the promising model mentioned above  (__note:__ this model is not updated yet)
+- BTC_treebased_models - a notebook with tree-based methods, it contains the promising model mentioned above
 - tree.jpg - a schemta showing the way of proceeding with tree-based models
